@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HWRedux/static/css/main.a6e8a759.chunk.css",
+    "main.js": "/HWRedux/static/js/main.0d8ad12d.chunk.js",
+    "main.js.map": "/HWRedux/static/js/main.0d8ad12d.chunk.js.map",
+    "runtime-main.js": "/HWRedux/static/js/runtime-main.c0a4a833.js",
+    "runtime-main.js.map": "/HWRedux/static/js/runtime-main.c0a4a833.js.map",
+    "static/js/2.cbf690f4.chunk.js": "/HWRedux/static/js/2.cbf690f4.chunk.js",
+    "static/js/2.cbf690f4.chunk.js.map": "/HWRedux/static/js/2.cbf690f4.chunk.js.map",
+    "index.html": "/HWRedux/index.html",
+    "precache-manifest.c578fba9fffbd4e8f6df7b48a7423c01.js": "/HWRedux/precache-manifest.c578fba9fffbd4e8f6df7b48a7423c01.js",
+    "service-worker.js": "/HWRedux/service-worker.js",
+    "static/css/main.a6e8a759.chunk.css.map": "/HWRedux/static/css/main.a6e8a759.chunk.css.map",
+    "static/js/2.cbf690f4.chunk.js.LICENSE.txt": "/HWRedux/static/js/2.cbf690f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0a4a833.js",
+    "static/js/2.cbf690f4.chunk.js",
+    "static/css/main.a6e8a759.chunk.css",
+    "static/js/main.0d8ad12d.chunk.js"
+  ]
+}
